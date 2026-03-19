@@ -1,1 +1,6 @@
+Fonction cout_courbure :
+  Entrée : position p (entier i,entier j), vitesse v ((entier x,entier y), 
+  Sortie : cout, entier
 
+  Si la différence de hauteur h(p + v) - h(p) est superieure à un cap ( a definir) : renvoie infini
+  Si la différence de hauteur est infèrieure à ce cap, renvoie une fonction de la différence à définir.
