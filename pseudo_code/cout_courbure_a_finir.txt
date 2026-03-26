@@ -2,5 +2,5 @@ Fonction cout_courbure :
   Entrée : position p (entier i,entier j (position dans la grille), entier m (angle)), vitesse v ((entier x,entier y (position dans la grille) , entier n (angle)), accélération a ((entier, entier (position), entier (angle))
   Sortie : cout, entier
 
-  Si la différence de est superieure à un cap ( a definir) : renvoie infini
-  Si la différence  est infèrieure à ce cap, renvoie une fonction à définir.
+  Si l'accélération est superieure à un cap ( a definir) : renvoie infini
+  Si l'accélération  est infèrieure à ce cap, renvoie une fonction à définir.
