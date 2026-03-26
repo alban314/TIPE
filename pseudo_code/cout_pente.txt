@@ -2,5 +2,5 @@ Fonction cout_pente :
   Entrée : position p (entier i,entier j (position dans la grille), entier m (angle)), vitesse v ((entier x,entier y (position dans la grille) , entier n (angle))
   Sortie : cout, entier
 
-  Si la différence de hauteur h(p + v) - h(p) est superieure à un cap ( a definir) : renvoie infini
+  Si la différence de hauteur (h(p + v) - h(p))/pente est superieure à un cap ( a definir) : renvoie infini
   Si la différence de hauteur est infèrieure à ce cap, renvoie une fonction de la différence à définir.
